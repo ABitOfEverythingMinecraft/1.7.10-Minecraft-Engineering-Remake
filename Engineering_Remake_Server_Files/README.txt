@@ -16,3 +16,5 @@ INSTRUCTIONS
 6. Scroll down and select "Add or remove exclusions"
 7. Select the "Add an exclusion" and select "Folder"
 8. Select the Minecraft_Engineering_Remake Folder
+9. Launch the "QuickLaunch.bat" file
+10. Wait for the installation to finish and then launch the FTB Server 1.7.10 file
